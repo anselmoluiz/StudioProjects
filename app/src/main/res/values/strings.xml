@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMoney</string>
+    <string name="hello_world">Estamos trabalhando!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_principal">My Money - Menu principal</string>
+    <string name="title_activity_banco">My Money - Banco</string>
+    <string name="title_activity_credor">My Money - Credor</string>
+    <string name="title_activity_fonte_pagadora">My Money - Fonte pagadora</string>
+    <string name="title_activity_conta_pagar">My Money - Contas a pagar</string>
+    <string name="title_activity_conta_receber">My Money - Contas a receber</string>
+    <string name="title_button_login">Logar</string>
+    <string name="title_view2">Especialização em engenharia de software com enfâse em padrões de software</string>
+    <string name="textCredor">credores</string>
+</resources>
